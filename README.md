@@ -254,3 +254,6 @@ account is selected.
   backend's URL as a build-time env var, then `npm run build`.
 - Update the FastAPI `CORSMiddleware` `allow_origins` to your deployed
   frontend origin instead of `"*"` for production.
+=======
+# Airbnb-clone
+Airbnb Clone is a full-stack vacation rental platform built with React, FastAPI, SQLite, and SQLAlchemy. It enables users to search properties, filter listings, view detailed property information, manage wishlists, make bookings, and explore host-managed accommodations through a responsive, Airbnb-inspired interface.

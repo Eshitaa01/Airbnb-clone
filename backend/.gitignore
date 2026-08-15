@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
-airbnb.db
 .env
 venv/
 .venv/
